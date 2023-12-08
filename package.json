@@ -1,0 +1,23 @@
+{
+  "name": "js-hw-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "cors": "^2.8.5",
+    "nanoid": "^5.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
